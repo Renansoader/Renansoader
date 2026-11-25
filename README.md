@@ -1,15 +1,12 @@
 <h1 align="center">Olá, eu sou o Renan 👋</h1>
 
-<p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas no IFPE, com foco em cibersegurança e inteligência artificial.
-</p>
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFPE, em Recife, com formatura prevista para o fim de 2028. Meu foco é **cibersegurança e inteligência artificial**, e uso Python para colocar em prática o que estudo.
 
-- 🎓 Membro da **LES IFPE** (Liga Acadêmica de Engenharia de Software)
-- 🚀 Construindo o **[auto-cortes](https://github.com/Renansoader/auto-cortes)** — ferramenta em Python que corta automaticamente trechos de vídeos longos para YouTube
-- 🎓 Formatura prevista para o fim de 2028
-- 📍 Recife, PE
+Na **Liga Acadêmica de Engenharia de Software do IFPE (LES IFPE)**, contribuo com o **IAbadie**, uma aplicação que usa busca semântica e RAG para responder a dúvidas sobre o curso de ADS. Minhas contribuições incluem código, requisitos e dependências.
 
-<br>
+Desenvolvi um **aplicativo de estudos em cibersegurança** com exercícios e acompanhamento de progresso e o **[auto-cortes](https://github.com/Renansoader/auto-cortes)**, que usa transcrição e modelos de linguagem para identificar e recortar trechos de vídeos longos. Concluí o curso de **Penetration Testing na CESAR School**, em parceria com a **Tempest**.
+
+Busco uma oportunidade de **estágio em cibersegurança ou IA** para aplicar essa experiência e aprender com uma equipe.
 
 ## 💻 Stack
 
