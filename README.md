@@ -1,11 +1,12 @@
 <h1 align="center">Olá, eu sou o Renan 👋</h1>
 
 <p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas no IFPE, com foco em back-end e interesse em dados e cibersegurança.
+Estudante de Análise e Desenvolvimento de Sistemas no IFPE, com foco em cibersegurança e inteligência artificial.
 </p>
 
 - 🎓 Membro da **LES IFPE** (Liga Acadêmica de Engenharia de Software)
 - 🚀 Construindo o **[auto-cortes](https://github.com/Renansoader/auto-cortes)** — ferramenta em Python que corta automaticamente trechos de vídeos longos para YouTube
+- 🎓 Formatura prevista para o fim de 2028
 - 📍 Recife, PE
 
 <br>
@@ -24,6 +25,8 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFPE, com foco em back-en
 
 | Projeto | Descrição |
 |---|---|
+| **IAbadie** | Aplicação de IA da LES IFPE que usa busca semântica e RAG para responder a dúvidas sobre o curso de ADS. Contribuí com código, requisitos e dependências |
+| **App de estudo de cibersegurança** | Aplicativo desktop em Python e SQLite para praticar conceitos de segurança com exercícios e acompanhar o progresso |
 | **[Lampions Marketing](https://renansoader.github.io/Lampions/)** | Landing page de marketing, projeto de portfólio |
 | **[Distributed Task Queue](https://github.com/Renansoader/distributed-task-queue)** | Fila de tarefas distribuídas (Python, FastAPI, Redis, RQ) para estudo de sistemas distribuídos |
 | **[API Gateway from Scratch](https://github.com/Renansoader/api-gateway)** | Gateway de API construído do zero (Python, FastAPI, httpx) |
